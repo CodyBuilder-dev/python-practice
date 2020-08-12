@@ -20,8 +20,10 @@ Django 자습 - 위키독스 자습 파일. 코드가 나와 있어 따라치기
 |---|---|
 |python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
 |python GC(가비지 컬렉터) 동작원리|[링크](https://winterj.me/python-gc/)|
+|pip 폐쇄망에서 사용하기|[링크](https://yujuwon.tistory.com/entry/%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-pip-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)|
+|pip 원하는 플랫폼/원하는 파이썬 버전으로 깔기|[플랫폼](https://stackoverflow.com/questions/59083607/how-to-download-pip-module-for-linux-using-windows)<br>|
 |동적 웹서비스를 위한 CGI,WAS,WSGI 이해|[링크](https://brownbears.tistory.com/350)<br>[링크](https://www.slideshare.net/SELOLEE/ss-126936404)|
-|포워드 프록시 vs 리버스 프록시|[링크](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html) vs [링크](https://firework-ham.tistory.com/23)|
+|포워드 프록시 vs 리버스 프록시|[링크](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html) <br> [링크](https://firework-ham.tistory.com/23)|
 |flask의 WSGI 구현 이해|[링크](https://spoqa.github.io/2012/01/16/wsgi-and-flask.html)|
 |werkzeug(flask WSGI 유틸리티) http 처리방식 심도 이해|[링크](https://spoqa.github.io/2012/05/07/about-flask-request.html)|
 |gunicorn 이해|[링크](https://vsupalov.com/what-is-gunicorn/)<br> [링크](https://jaas.ai/gunicorn/trusty/1)|
