@@ -28,6 +28,7 @@ Django 자습 - 위키독스 자습 파일. 코드가 나와 있어 따라치기
 |werkzeug(flask WSGI 유틸리티) http 처리방식 심도 이해|[링크](https://spoqa.github.io/2012/05/07/about-flask-request.html)|
 |gunicorn 이해|[링크](https://vsupalov.com/what-is-gunicorn/)<br> [링크](https://jaas.ai/gunicorn/trusty/1)|
 |flask SSL 적용|[링크](http://mcchae.egloos.com/11143246)|
+|flask (+ werkzeug) + Nginx |[Windows](https://chanhy63.tistory.com/19?category=731625)|
 |flask + gunicorn + Nginx |[링크](https://velog.io/@yvvyoon/flask-nginx-gunicorn-1)<br>[링크](https://yumere.tistory.com/59)<br>[링크](https://blog.iolate.kr/259)<br>[링크](https://blog.naver.com/PostView.nhn?blogId=na_qa&logNo=221912986971)|
 |flask + uWSGI + Nginx |[링크](https://medium.com/sunhyoups-story/flask-nginx-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-258b979d2de3) <br> [링크](https://taetaetae.github.io/2018/07/01/simple-web-server-flask-nginx/)|
 |flask + fabric + Apache |[링크](https://beomi.github.io/2017/10/17/Deploy-Flask-with-Fabric/)|
