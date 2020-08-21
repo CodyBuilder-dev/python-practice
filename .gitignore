@@ -1,0 +1,18 @@
+# gitignore for venv
+## venv configure file
+*.cfg
+
+## venv start/shutdown script
+activate
+*.bat
+*.ps1
+*.exe
+
+## venv site-packages
+Lib/
+
+## venv Include
+Include/
+
+# gitignore for flask
+## 
