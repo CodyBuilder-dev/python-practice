@@ -25,7 +25,7 @@ Django 한 그릇 뚝딱 - 3가지 실전 프로젝트 위주
 #### 파이썬
 |내용|링크|
 |---|---|
-|python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
+|python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)<br>[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
 |python GC(가비지 컬렉터) 동작원리|[링크](https://winterj.me/python-gc/)|
 
 #### pip
