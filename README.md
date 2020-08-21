@@ -35,4 +35,6 @@ Django 자습 - 위키독스 자습 파일. 코드가 나와 있어 따라치기
 |flask + gunicorn (+supervisor) |[링크](http://egloos.zum.com/mcchae/v/11149241) |
 |django + gunicorn + Nginx | [링크](https://wikidocs.net/6601)|
 |django + gunicorn + Nginx (+supervisor)|[링크](https://yujuwon.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-Django%EC%99%80-gunicorn-supervisor-nginx-%EC%97%B0%EB%8F%99-%ED%95%98%EA%B8%B0)|
-
+|python에서 JDBC thin driver 통해 DB 접근|[Jpype & JayDeBeApi](https://bongury.tistory.com/89)<br>|
+|Jython 스타일로 JDBC 드라이버 DB접근|https://jythonbook-ko.readthedocs.io/en/latest/DatabasesAndJython.html|
+|pip 폐쇄망 설치시 이슈|[링크](Issue.md)|
