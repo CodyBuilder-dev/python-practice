@@ -17,5 +17,5 @@
 |분류|내용|
 |---|---|
 |관련원리|pip통한 jpype 설치 과정에서 dependency 검색을 수행 진행|
-|발생원인|현재 python 환경에 맞는 dependency 찾아보는 과정 수행<br>typing-dependency가 설치되어 있지 않아 진행 멈춤|
-|해결|현재 환경에 맞는 jpype whl파일이 준비되어 있다면, --no-deps 옵션으로 설치|
+|발생원인|현재 python 환경에 맞는 dependency 찾아보는 과정 수행<br>typing-extension이 설치되어 있지 않아 진행 멈춤|
+|해결|typing-extension 패키지는 추후 jpype 실행에서 필요하므로 whl 준비해서 설치|
