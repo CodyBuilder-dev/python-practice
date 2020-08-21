@@ -5,23 +5,40 @@
 2021년 ~
 
 ## 레퍼런스 정리
-
 ### 교재 추천 리스트
+#### 파이토닉 코드
+[파이썬 클린 코드](https://dailyheumsi.tistory.com/221)
+
+#### 플라스크
+깔끔한 파이썬 탄탄한 백엔드 - 플라스크 이용한 몇 안되는 책  
+[플라스크 튜토리얼](https://www.tutorialspoint.com/flask/index.htm)
+#### 장고
 파이썬 웹 프로그래밍 (입문편/실전편) - 평가 제일 무난  
 Django(장고)로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍 - 완전 기초보다는 예제 프로젝트 위주  
 Django 한 그릇 뚝딱 - 3가지 실전 프로젝트 위주  
 
-Django 자습 - 위키독스 자습 파일. 코드가 나와 있어 따라치기 좋음 - [링크](https://wikidocs.net/book/837)
+[Django 자습](https://wikidocs.net/book/837) - 위키독스 자습 파일. 코드가 나와 있어 따라치기 좋음
 
 + 프로그래머를 위한 베이지안 with python(재밌어보여서 ㅎ) - [링크](https://ridibooks.com/books/754022885?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
 ### 링크 정리
+#### 파이썬
 |내용|링크|
 |---|---|
 |python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
 |python GC(가비지 컬렉터) 동작원리|[링크](https://winterj.me/python-gc/)|
+
+#### pip
+|내용|링크|
+|---|---|
 |pip 폐쇄망에서 사용하기|[링크](https://yujuwon.tistory.com/entry/%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-pip-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)|
-|pip 원하는 플랫폼/원하는 파이썬 버전으로 깔기|[플랫폼](https://stackoverflow.com/questions/59083607/how-to-download-pip-module-for-linux-using-windows)<br>|
+|pip 원하는 플랫폼/원하는 파이썬 버전으로 깔기|[플랫폼](https://stackoverflow.com/questions/59083607/how-to-download-pip-module-for-linux-using-windows)|
+|pip 폐쇄망 설치시 이슈|[링크](Issue.md)|
+|pip 설치과정에서 외부 의존성에 대한 pip팀의 입장|[공식Doc](https://pip.pypa.io/en/stable/development/vendoring-policy/)|
+
+#### WEBWAS(flask/django)
+|내용|링크|
+|---|---|
 |동적 웹서비스를 위한 CGI,WAS,WSGI 이해|[링크](https://brownbears.tistory.com/350)<br>[링크](https://www.slideshare.net/SELOLEE/ss-126936404)|
 |포워드 프록시 vs 리버스 프록시|[링크](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html) <br> [링크](https://firework-ham.tistory.com/23)|
 |flask의 WSGI 구현 이해|[링크](https://spoqa.github.io/2012/01/16/wsgi-and-flask.html)|
@@ -37,5 +54,3 @@ Django 자습 - 위키독스 자습 파일. 코드가 나와 있어 따라치기
 |django + gunicorn + Nginx (+supervisor)|[링크](https://yujuwon.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-Django%EC%99%80-gunicorn-supervisor-nginx-%EC%97%B0%EB%8F%99-%ED%95%98%EA%B8%B0)|
 |python에서 JDBC thin driver 통해 DB 접근|[Jpype & JayDeBeApi](https://bongury.tistory.com/89)<br>|
 |Jython 스타일로 JDBC 드라이버 DB접근|https://jythonbook-ko.readthedocs.io/en/latest/DatabasesAndJython.html|
-|pip 폐쇄망 설치시 이슈|[링크](Issue.md)|
-|pip 설치과정에서 외부 의존성에 대한 pip팀의 입장|[공식Doc](https://pip.pypa.io/en/stable/development/vendoring-policy/)|
