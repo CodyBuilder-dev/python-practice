@@ -38,3 +38,4 @@ Django 자습 - 위키독스 자습 파일. 코드가 나와 있어 따라치기
 |python에서 JDBC thin driver 통해 DB 접근|[Jpype & JayDeBeApi](https://bongury.tistory.com/89)<br>|
 |Jython 스타일로 JDBC 드라이버 DB접근|https://jythonbook-ko.readthedocs.io/en/latest/DatabasesAndJython.html|
 |pip 폐쇄망 설치시 이슈|[링크](Issue.md)|
+|pip 설치과정에서 외부 의존성에 대한 pip팀의 입장|[공식Doc](https://pip.pypa.io/en/stable/development/vendoring-policy/)|
