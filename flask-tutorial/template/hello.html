@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        {# jinja의 주석은 이렇다 #}
+        {# 전통적인 HTML 주석 <!-- --> 를 쓸 수는 있지만, 주석으로 해석하지 않고 그냥 무시한다. #}
+        <!--따라서 이 안에 jinja 문법구문이 들어가면 예상치 못한 동작을 하므로 주의-->
+        
+        <!-- jinja template는 일종의 파이선 변수 placeholder로서
+        아래와 같은 치환변수 구문이 나타나면 치환해 준다 -->
+        <h1>Hello World (with h1 tag)</h1>
+        your name is {{ name }}
+    </body>
+</html>

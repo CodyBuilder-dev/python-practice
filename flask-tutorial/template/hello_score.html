@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        {# 백엔드에서 보낸 데이터를 프론트에서 선택적으로 렌더링 하는 구문 #}
+        {% if marks>=50 %}
+        <h1> Your Result is pass! </h1>
+        {% else %}
+        <h1> Your Result is FAIL!</h1>
+        {% endif %}
+    </body>
+</html>
