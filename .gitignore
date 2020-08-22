@@ -10,7 +10,7 @@ activate
 
 ## venv site-packages
 Lib/
-
+Scripts/
 ## venv Include
 Include/
 
