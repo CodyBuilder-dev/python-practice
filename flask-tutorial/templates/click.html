@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type = "text/javascript"
+            src = "{{url_for('static',filename = 'hello.js')}}" ></script>
+        {# statics 등의 경로로는 수행되지 않음 #}
+        {# url_for를 Flask app에 선언하지 않아도 작동된다. (왜?) #}
+    </head>
+    <body>
+        <input type = "button" onclick = "sayHello()" value ="Say Hello" />
+    </body>
+</html>
