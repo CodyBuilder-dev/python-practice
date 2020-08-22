@@ -1,34 +1,51 @@
 # python-practice
-언젠가는 짚고 가야 할 파이썬 &amp; 장고 백엔드 동작원리
+언젠가는 짚고 가야 할 파이썬 &amp; 장고 백엔드 동작원리  
+**나는 지금 파이썬을 '파이썬스럽게' 잘 쓰고 있는가? 에 대한 답변**
 
 ## 목표 공부기간
-2021년 ~
+2020년 ~ 2021년
 
 ## 레퍼런스 정리
 ### 교재 추천 리스트
 #### 파이토닉 코드
-[파이썬 클린 코드](https://dailyheumsi.tistory.com/221)
+|제목|설명|
+|---|---|
+|[파이썬 클린 코드](http://www.yes24.com/Product/Goods/69064790)|교재, e북 없음|
+|[파이썬 클린 코드](https://dailyheumsi.tistory.com/221)|파이썬 클린코드 예시|
+|[파이썬답게 코딩하기](https://ridibooks.com/books/3780000029?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C+%EC%BD%94%EB%94%A9%ED%95%98%EA%B8%B0)|파이토닉 코드 교재|
 
 #### 플라스크
-깔끔한 파이썬 탄탄한 백엔드 - 플라스크 이용한 몇 안되는 책  
-[플라스크 튜토리얼](https://www.tutorialspoint.com/flask/index.htm)
-
+|제목|설명|
+|---|---|
+|[깔끔한 파이썬,탄탄한 백엔드](https://ridibooks.com/books/3780000004?_s=search&_q=%EA%B9%94%EB%81%94%ED%95%9C+%ED%8C%8C%EC%9D%B4%EC%8D%AC)|플라스크 이용한 몇 안되는 책|
+|[플라스크 튜토리얼](https://www.tutorialspoint.com/flask/index.htm)|플라스크 기본 문법 튜토리얼, 분량이 적어 따라하기 쉽다|
+|[플라스크 기본 문법](https://www.slideshare.net/dahlmoon/20170331)|SildeShare 설명 내용|
+|[플라스크 공식 문서](https://flask-docs-kr.readthedocs.io/ko/latest/)|한글화된 공식 문서. 플라스크의 내부 구조 API 포함|
 
 #### 장고
-파이썬 웹 프로그래밍 (입문편/실전편) - 평가 제일 무난  
-Django(장고)로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍 - 완전 기초보다는 예제 프로젝트 위주  
-Django 한 그릇 뚝딱 - 3가지 실전 프로젝트 위주  
+|제목|설명|
+|---|---|
+|파이썬 웹 프로그래밍 (입문편/실전편) | 평가 제일 무난 |
+|Django(장고)로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍 | 완전 기초보다는 예제 프로젝트 위주  |
+|Django 한 그릇 뚝딱 | 3가지 실전 프로젝트 위주  |
+|[Django 자습](https://wikidocs.net/book/837) | 위키독스 자습 파일. 코드가 나와 있어 따라치기 좋음|
 
-[Django 자습](https://wikidocs.net/book/837) - 위키독스 자습 파일. 코드가 나와 있어 따라치기 좋음
-
-+ 프로그래머를 위한 베이지안 with python(재밌어보여서 ㅎ) - [링크](https://ridibooks.com/books/754022885?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC)
++[프로그래머를 위한 베이지안 with python](https://ridibooks.com/books/754022885?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC)(재밌어보여서 ㅎ)
 
 ### 링크 정리
 #### 파이썬
 |내용|링크|
 |---|---|
-|python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)<br>[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
-|python GC(가비지 컬렉터) 동작원리|[링크](https://winterj.me/python-gc/)|
+|Python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)<br>[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
+|Python GC(가비지 컬렉터) 동작원리|[링크](https://winterj.me/python-gc/)|
+|Python 기술면접 질문들|[리드미](https://post.naver.com/viewer/postView.nhn?volumeNo=21620976&memberNo=28685456)|
+|JIT 컴파일의 이해|[위키백과](https://ko.wikipedia.org/wiki/JIT_%EC%BB%B4%ED%8C%8C%EC%9D%BC#:~:text=JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC(just%2Din%2D,%EB%B2%88%EC%97%AD%ED%95%98%EB%8A%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B8%B0%EB%B2%95%EC%9D%B4%EB%8B%A4.) <br> [꺼무위키](https://namu.wiki/w/JIT)|
+|Python 런타임 이해|[컴파일러/인터프리터 구조](https://aliwo.github.io/swblog/python/python-runtime/#)|
+|PyPy의 구현 원리|[나무위키](https://namu.wiki/w/PyPy)<br>[Youtube](https://www.youtube.com/watch?v=Wgw5ers5jA4)|
+|Python generator||
+|Python과 객체지향||
+|Python GIL||
+|Python과 메모리||
 
 #### pip
 |내용|링크|
@@ -52,7 +69,10 @@ Django 한 그릇 뚝딱 - 3가지 실전 프로젝트 위주
 |flask + uWSGI + Nginx |[링크](https://medium.com/sunhyoups-story/flask-nginx-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-258b979d2de3) <br> [링크](https://taetaetae.github.io/2018/07/01/simple-web-server-flask-nginx/)<br>[링크](https://cjh5414.github.io/flask-uwsgi-nginx/)<br>[링크](https://sodocumentation.net/ko/flask/topic/4637/nginx%EC%99%80-%ED%95%A8%EA%BB%98-uwsgi-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-flask-%EC%9D%91%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%B0%B0%ED%8F%AC)|
 |flask + fabric + Apache |[링크](https://beomi.github.io/2017/10/17/Deploy-Flask-with-Fabric/)|
 |flask + gunicorn (+supervisor) |[링크](http://egloos.zum.com/mcchae/v/11149241) |
+
+|django ORM||
+|django 
 |django + gunicorn + Nginx | [링크](https://wikidocs.net/6601)|
 |django + gunicorn + Nginx (+supervisor)|[링크](https://yujuwon.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-Django%EC%99%80-gunicorn-supervisor-nginx-%EC%97%B0%EB%8F%99-%ED%95%98%EA%B8%B0)|
 |python에서 JDBC thin driver 통해 DB 접근|[Jpype & JayDeBeApi](https://bongury.tistory.com/89)<br>|
-|Jython 스타일로 JDBC 드라이버 DB접근|https://jythonbook-ko.readthedocs.io/en/latest/DatabasesAndJython.html|
+|Jython 스타일로 JDBC 드라이버 DB접근|[링크](https://jythonbook-ko.readthedocs.io/en/latest/DatabasesAndJython.html)|
