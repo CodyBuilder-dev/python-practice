@@ -19,6 +19,8 @@
 |---|---|
 |[깔끔한 파이썬,탄탄한 백엔드](https://ridibooks.com/books/3780000004?_s=search&_q=%EA%B9%94%EB%81%94%ED%95%9C+%ED%8C%8C%EC%9D%B4%EC%8D%AC)|플라스크 이용한 몇 안되는 책|
 |[플라스크 튜토리얼](https://www.tutorialspoint.com/flask/index.htm)|플라스크 기본 문법 튜토리얼, 분량이 적어 따라하기 쉽다|
+|[플라스크 기본 문법](https://www.slideshare.net/dahlmoon/20170331)|SildeShare 설명 내용|
+|[플라스크 공식 문서](https://flask-docs-kr.readthedocs.io/ko/latest/)|한글화된 공식 문서. 플라스크의 내부 구조 API 포함|
 
 #### 장고
 |제목|설명|
