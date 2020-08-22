@@ -17,11 +17,17 @@ def hello_guest(guest) :
 @app.route('/user/<name>')
 def hello_user(name) :
     if name == 'admin' :
-        # url_for에 들어가는 인자는, 함수 이름을 문자열로 감싼 것
+        # url_for에 들어가는 인자는, 함수 이름을 문자열로 감싼 endpoint
         return redirect(url_for('hello_admin')) 
+        
         # 함수 이름을 그대로 넣으면 에러가 뜬다. 
         # 이유 : flask의 endpoint에서 해당 문자열을 찾는 식으로 수행되는데, 함수 객체 그대로 넣으면 못 찾음
         #return redirect(url_for(hello_admin)) 
+
+        #마찬가지로 url을 넣어도 에러가 뜬다
+        # 이유 : endpoint 기준으로 찾기 때문. 대신 url을 넣으면 해당 url에 연결된 함수명을 추천해줌
+        # Could not build url for endpoint '/admin'. Did you mean 'hello_admin' instead?
+        #return redirect(url_for("/admin"))
     else :
         return redirect(url_for('hello_guest',guest=name)) #  url_for 내에서 매개변수 연결도 가능하다
 
