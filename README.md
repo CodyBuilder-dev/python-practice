@@ -21,7 +21,7 @@
 |[플라스크 튜토리얼](https://www.tutorialspoint.com/flask/index.htm)|플라스크 기본 문법 튜토리얼, 분량이 적어 따라하기 쉽다|
 |[플라스크 기본 문법](https://www.slideshare.net/dahlmoon/20170331)|SildeShare 설명 내용|
 |[플라스크 공식 문서](https://flask-docs-kr.readthedocs.io/ko/latest/)|한글화된 공식 문서. 플라스크의 내부 구조 API 포함|
-
+|[플라스크 Secret Key 사용 이유](https://stackoverflow.com/questions/22463939/demystify-flask-app-secret-key)<br>[플라스크 임의 Secret Key 만들기](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask)<br>[Secret Key를 하드코딩하는 이유](https://stackoverflow.com/questions/27287391/why-not-generate-the-secret-key-every-time-flask-starts)<br>[Secret Key 보관법](https://stackoverflow.com/questions/30873189/where-should-i-place-the-secret-key-in-flask)|Flask의 Secret Key에 대해서 내용 싹다 정리|
 #### 장고
 |제목|설명|
 |---|---|
