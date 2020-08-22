@@ -39,7 +39,7 @@
 |Python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)<br>[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
 |Python GC(가비지 컬렉터) 동작원리|[링크](https://winterj.me/python-gc/)|
 |Python 기술면접 질문들|[리드미](https://post.naver.com/viewer/postView.nhn?volumeNo=21620976&memberNo=28685456)|
-|JIT 컴파일의 이해|[위키백과](https://ko.wikipedia.org/wiki/JIT_%EC%BB%B4%ED%8C%8C%EC%9D%BC#:~:text=JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC(just%2Din%2D,%EB%B2%88%EC%97%AD%ED%95%98%EB%8A%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B8%B0%EB%B2%95%EC%9D%B4%EB%8B%A4.) <br> [꺼무위키](https://namu.wiki/w/JIT)|
+|JIT 컴파일의 이해|[위키백과](https://ko.wikipedia.org/wiki/JIT_%EC%BB%B4%ED%8C%8C%EC%9D%BC)<br>[꺼무위키](https://namu.wiki/w/JIT)|
 |Python 런타임 이해|[컴파일러/인터프리터 구조](https://aliwo.github.io/swblog/python/python-runtime/#)|
 |PyPy의 구현 원리|[나무위키](https://namu.wiki/w/PyPy)<br>[Youtube](https://www.youtube.com/watch?v=Wgw5ers5jA4)|
 |Python generator||
@@ -69,7 +69,6 @@
 |flask + uWSGI + Nginx |[링크](https://medium.com/sunhyoups-story/flask-nginx-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-258b979d2de3) <br> [링크](https://taetaetae.github.io/2018/07/01/simple-web-server-flask-nginx/)<br>[링크](https://cjh5414.github.io/flask-uwsgi-nginx/)<br>[링크](https://sodocumentation.net/ko/flask/topic/4637/nginx%EC%99%80-%ED%95%A8%EA%BB%98-uwsgi-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-flask-%EC%9D%91%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%B0%B0%ED%8F%AC)|
 |flask + fabric + Apache |[링크](https://beomi.github.io/2017/10/17/Deploy-Flask-with-Fabric/)|
 |flask + gunicorn (+supervisor) |[링크](http://egloos.zum.com/mcchae/v/11149241) |
-
 |django ORM||
 |django 
 |django + gunicorn + Nginx | [링크](https://wikidocs.net/6601)|
