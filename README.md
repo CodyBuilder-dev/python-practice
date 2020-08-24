@@ -21,7 +21,7 @@
 |[플라스크 튜토리얼](https://www.tutorialspoint.com/flask/index.htm)|플라스크 기본 문법 튜토리얼, 분량이 적어 따라하기 쉽다|
 |[플라스크 기본 문법](https://www.slideshare.net/dahlmoon/20170331)|SildeShare 설명 내용|
 |[플라스크 공식 문서](https://flask-docs-kr.readthedocs.io/ko/latest/)|한글화된 공식 문서. 플라스크의 내부 구조 API 포함|
-|[플라스크 Secret Key 사용 이유](https://stackoverflow.com/questions/22463939/demystify-flask-app-secret-key)<br>[플라스크 임의 Secret Key 만들기](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask)<br>[Secret Key를 하드코딩하는 이유](https://stackoverflow.com/questions/27287391/why-not-generate-the-secret-key-every-time-flask-starts)<br>[Secret Key 보관법](https://stackoverflow.com/questions/30873189/where-should-i-place-the-secret-key-in-flask)|Flask의 Secret Key에 대해서 내용 싹다 정리|
+
 #### 장고
 |제목|설명|
 |---|---|
@@ -70,8 +70,8 @@
 |flask + fabric + Apache |[링크](https://beomi.github.io/2017/10/17/Deploy-Flask-with-Fabric/)|
 |flask + gunicorn (+supervisor) |[링크](http://egloos.zum.com/mcchae/v/11149241) |
 |django ORM||
-|django 
 |django + gunicorn + Nginx | [링크](https://wikidocs.net/6601)|
 |django + gunicorn + Nginx (+supervisor)|[링크](https://yujuwon.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-Django%EC%99%80-gunicorn-supervisor-nginx-%EC%97%B0%EB%8F%99-%ED%95%98%EA%B8%B0)|
 |python에서 JDBC thin driver 통해 DB 접근|[Jpype & JayDeBeApi](https://bongury.tistory.com/89)<br>|
 |Jython 스타일로 JDBC 드라이버 DB접근|[링크](https://jythonbook-ko.readthedocs.io/en/latest/DatabasesAndJython.html)|
+|Flask의 Secret Key에 대해서 내용 싹다 정리|[플라스크 Secret Key 사용 이유](https://stackoverflow.com/questions/22463939/demystify-flask-app-secret-key)<br>[플라스크 임의 Secret Key 만들기](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask)<br>[Secret Key를 하드코딩하는 이유](https://stackoverflow.com/questions/27287391/why-not-generate-the-secret-key-every-time-flask-starts)<br>[Secret Key 보관법](https://stackoverflow.com/questions/30873189/where-should-i-place-the-secret-key-in-flask)|
