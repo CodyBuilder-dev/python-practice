@@ -47,6 +47,7 @@
 |Python GIL||
 |Python과 메모리||
 |Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
+|Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
 #### pip
 |내용|링크|
 |---|---|
@@ -76,3 +77,4 @@
 |Jython 스타일로 JDBC 드라이버 DB접근|[링크](https://jythonbook-ko.readthedocs.io/en/latest/DatabasesAndJython.html)|
 |Flask의 Secret Key에 대해서 내용 싹다 정리|[플라스크 Secret Key 사용 이유](https://stackoverflow.com/questions/22463939/demystify-flask-app-secret-key)<br>[플라스크 임의 Secret Key 만들기](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask)<br>[Secret Key를 하드코딩하는 이유](https://stackoverflow.com/questions/27287391/why-not-generate-the-secret-key-every-time-flask-starts)<br>[Secret Key 보관법](https://stackoverflow.com/questions/30873189/where-should-i-place-the-secret-key-in-flask)|
 |flask에 https 적용하기|[링크](https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS6163871474)|
+|flask Login|[링크](https://niceman.tistory.com/191)<br>[링크](https://flask-login.readthedocs.io/en/latest/#flask_login.login_required)<br>[링크](https://github.com/mcchae/Flask-Login)|
