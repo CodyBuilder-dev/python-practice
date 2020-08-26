@@ -48,6 +48,8 @@
 |Python과 메모리||
 |Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
 |Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
+|파이썬 실행 옵션 정리|[Doc](https://docs.python.org/ko/3.6/using/cmdline.html)|
+
 #### pip
 |내용|링크|
 |---|---|
@@ -78,3 +80,5 @@
 |Flask의 Secret Key에 대해서 내용 싹다 정리|[플라스크 Secret Key 사용 이유](https://stackoverflow.com/questions/22463939/demystify-flask-app-secret-key)<br>[플라스크 임의 Secret Key 만들기](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask)<br>[Secret Key를 하드코딩하는 이유](https://stackoverflow.com/questions/27287391/why-not-generate-the-secret-key-every-time-flask-starts)<br>[Secret Key 보관법](https://stackoverflow.com/questions/30873189/where-should-i-place-the-secret-key-in-flask)|
 |flask에 https 적용하기|[링크](https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS6163871474)|
 |flask Login|[링크](https://niceman.tistory.com/191)<br>[링크](https://flask-login.readthedocs.io/en/latest/#flask_login.login_required)<br>[링크](https://github.com/mcchae/Flask-Login)|
+|gunicorn 백그라운드에서 돌리기|[링크](https://www.it-swarm.dev/ko/python/gunicorn%EC%9D%84-%EA%B3%84%EC%86%8D-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EC%98%AC%EB%B0%94%EB%A5%B8-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/1070401484/)|
+|gunicorn 명령어 설정하기||
