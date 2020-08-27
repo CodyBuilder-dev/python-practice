@@ -71,8 +71,8 @@
 |flask + gunicorn + Nginx |[링크](https://velog.io/@yvvyoon/flask-nginx-gunicorn-1)<br>[링크](https://yumere.tistory.com/59)<br>[링크](https://blog.iolate.kr/259)<br>[링크](https://blog.naver.com/PostView.nhn?blogId=na_qa&logNo=221912986971)|
 |flask + uWSGI + Nginx |[링크](https://medium.com/sunhyoups-story/flask-nginx-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-258b979d2de3) <br> [링크](https://taetaetae.github.io/2018/07/01/simple-web-server-flask-nginx/)<br>[링크](https://cjh5414.github.io/flask-uwsgi-nginx/)<br>[링크](https://sodocumentation.net/ko/flask/topic/4637/nginx%EC%99%80-%ED%95%A8%EA%BB%98-uwsgi-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-flask-%EC%9D%91%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%B0%B0%ED%8F%AC)|
 |flask + fabric + Apache |[링크](https://beomi.github.io/2017/10/17/Deploy-Flask-with-Fabric/)|
-|flask + gunicorn (+supervisor) |[링크](http://egloos.zum.com/mcchae/v/11149241) |
-|django ORM||
+|flask + gunicorn (+supervisor) |[링크](http://egloos.zum.com/mcchae/v/11149241)|
+|flask 템플릿 변경시 자동 reloading|[TEMPLATES_AUTO_RELOAD](https://flask.palletsprojects.com/en/1.1.x/config/?highlight=configuration#TEMPLATES_AUTO_RELOAD)|
 |django + gunicorn + Nginx | [링크](https://wikidocs.net/6601)|
 |django + gunicorn + Nginx (+supervisor)|[링크](https://yujuwon.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-Django%EC%99%80-gunicorn-supervisor-nginx-%EC%97%B0%EB%8F%99-%ED%95%98%EA%B8%B0)|
 |python에서 JDBC thin driver 통해 DB 접근|[Jpype & JayDeBeApi](https://bongury.tistory.com/89)<br>|
