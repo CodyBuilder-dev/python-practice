@@ -13,6 +13,7 @@
 |[파이썬 클린 코드](http://www.yes24.com/Product/Goods/69064790)|교재, e북 없음|
 |[파이썬 클린 코드](https://dailyheumsi.tistory.com/221)|파이썬 클린코드 예시|
 |[파이썬답게 코딩하기](https://ridibooks.com/books/3780000029?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C+%EC%BD%94%EB%94%A9%ED%95%98%EA%B8%B0)|파이토닉 코드 교재|
+|[파이썬 코딩의 기술](https://ridibooks.com/books/754018005?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC)|파이썬계의 '이펙티브 C++'|
 
 #### 플라스크
 |제목|설명|
