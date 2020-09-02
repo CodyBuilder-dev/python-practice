@@ -51,6 +51,8 @@
 |Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
 |파이썬 실행 옵션 정리|[Doc](https://docs.python.org/ko/3.6/using/cmdline.html)|
 |Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
+|os 패키지를 이용한 절대경로 획득|[링크](https://itmining.tistory.com/122)|
+|JPype 설치시 JAVA_HOME 미인식 문제||
 #### pip
 |내용|링크|
 |---|---|
