@@ -86,3 +86,8 @@
 |gunicorn 백그라운드에서 돌리기|[링크](https://www.it-swarm.dev/ko/python/gunicorn%EC%9D%84-%EA%B3%84%EC%86%8D-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EC%98%AC%EB%B0%94%EB%A5%B8-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/1070401484/)|
 |gunicorn 명령어 옵션||
 |gunicorn 종료 명령어|[쉘스크립트](https://www.it-swarm.dev/ko/django/gunicorn%EC%9D%84-%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C-%EB%A9%88%EC%B6%94%EB%8A%94-%EB%B0%A9%EB%B2%95/1071286657/)|
+
+#### Swagger
+|내용|링크|
+|---|---|
+|Flask에 Swagger 적용하기|[Flask-Restplus Doc](https://flask-restplus.readthedocs.io/en/stable/swagger.html)<br>[Flask-Restplus 예시](http://egloos.zum.com/mcchae/v/11276332)<br>[Flask-Restplus 예시](https://m.blog.naver.com/PostView.nhn?blogId=wideeyed&logNo=221571623994&proxyReferer=https:%2F%2Fwww.google.com%2F)|
