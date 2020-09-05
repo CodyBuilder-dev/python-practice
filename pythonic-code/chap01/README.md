@@ -48,3 +48,16 @@ map
 ### Nested 개념
 함수의 내부에 다른 함수가 정의된 경우를 Nested 되었다고 표현하고,  
 내부의 함수를 inner function, 외부의 함수를 outer function이라고 지칭한다.
+
+### Closure
+1. Nested Func을 지원하고
+2. 함수가 일급 객체로 취급될 수 있는 언어에서
+자신의 내부에 있는 inner func과 그 inner func이 사용되는 환경을 반환하는 함수  
+=> 이를 통해, 외부에서 inner func에 접근할 수 있게 된다.
+
+### 의문 : CLosure를 써야하는 이유?
+JavaScript는 클래스가 익숙하지 않으니 클로저를 쓰는걸 이해할 수 있다  
+Python은 클래스가 이미 존재하는데 클로저를 굳이 써야하는 이유가 있을까?
+1. global 변수를 사용하고 싶지 않을 때 : outer func의 local variable을 마치 inner의 global variable처럼 사용할 수 있으므로!
+2. class를 사용하고 싶지 않을 때 : 자주 반복되지는 않아서 class로 만들기보다는, 잠깐 closure로 만들어서 쓰는 것이 나을 수 있다.
+3. decorator를 사용하기 위해서
