@@ -54,6 +54,8 @@
 |Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
 |os 패키지를 이용한 절대경로 획득|[링크](https://itmining.tistory.com/122)|
 |JPype 설치시 JAVA_HOME 미인식 문제||
+|Python *args,**kwargs|[링크](https://brunch.co.kr/@princox/180)|
+
 #### pip
 |내용|링크|
 |---|---|

@@ -18,3 +18,17 @@ else문에서는 try문의 변수가 그대로 사용된다.
 ### 반복문
 1. 파이썬의 range 구문은, generator이다
 2. 파이썬의 enumerate 구문은, 인덱스를 쓸 수 없는 자료형(dict)에 인덱스를 만들어 준다.
+
+## Decorator 
+### Decorator의 목적
+기존의 클래스나 함수를 수정하지 않고 기능을 덧붙이는 클로저
+-> 나중에 Spring에서 이어지는 IoC를 위한 핵심적인 요소
+### Decorator의 사용법
+1. 함수를 인자로 받는 closure를 만든다
+2. closure 내부에 wrapper 함수를 만들고, 인자로 받은 함수를 wrapper 내부에서 잘 요리한 후 wrapper를 반환한다.
+3. Decorator를 적용시키고 싶은 함수의 윗줄에 `@클로저명` 을 추가한다.
+### 다중 Decorator
+실행 순서 : 함수의 바로 위에 있는 것 부터, 아래에서 위로 실행된다.
+
+
+
