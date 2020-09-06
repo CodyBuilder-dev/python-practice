@@ -30,5 +30,29 @@ else문에서는 try문의 변수가 그대로 사용된다.
 ### 다중 Decorator
 실행 순서 : 함수의 바로 위에 있는 것 부터, 아래에서 위로 실행된다.
 
+## iterable, iterator
+### iterable
+정의 : 한번에 하나 혹은 그 이상씩 값을 반환할 수 있는 객체  
+예시 : 
+1. container(리스트,튜플,dict등의 자료형)
+2. open 함수로 불러진 파일, 소켓
+3. __iter__ 혹은 __getitem__ 메서드가 구현된 Class
 
+### iterator
+정의 : 한번에 하나씩만 값을 반환하는 객체  
+특성 : 
+1. 현재 어디까지 반복되었는지 정보를 포함함
+2. next를 통해 하나씩 반환
+3. 더이상 반환할 값이 없을 경우 StopIteration Exception 발생  
+사용법 : StopIteration 에 대한 예외처리가 필요함
 
+### 파이썬의 iterator 구현 : iter 키워드
+용도 : 해당되는 객체를 iterator로 만들어줌
+동작방식 : 해당 객체의 __iter__ 메소드를 호출하는 듯?
+
+### 파이썬의 iterator 구현 : next 키워드
+용도 : 해당 iterator의 다음 값을 반환해줌
+동작방식 : 해당 iterator의 __next__메소드를 호출하는 듯?
+
+### 파이썬의 iterator 구현 : for문
+for문에서 대상이 되는 객체는, iterable이라도 자동으로 iterator로 변환된다
