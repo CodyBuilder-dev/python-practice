@@ -56,3 +56,24 @@ else문에서는 try문의 변수가 그대로 사용된다.
 
 ### 파이썬의 iterator 구현 : for문
 for문에서 대상이 되는 객체는, iterable이라도 자동으로 iterator로 변환된다
+
+## Generator
+### 파이썬의 Generator 정의(python 3)
+제네레이터 이터레이터를 반환하는 함수다
+
+### Generator의 특성
+1. 함수이다
+2. yield 구문을 포함한다.
+
+### Generator iterator vs Iterator
+차이점 1 : next 메서드의 동작  
+|Generator Iterator|Iterator|
+|--|--|
+|1. 처음일 경우, 처음 만나는 yield문까지 실행한다.<br>2.그 다음 yield문까지 실행한다.|컨테이너의 다음 값을 반환한다.|
+
+차이점 2 : 메모리
+|Generator Iterator|Iterator|
+|--|--|
+|next가 수행되는 시점에 값이 계산되고 반환됨|미리 계산된 값들을 next 시점에 반환만 함|
+
+### 파이썬의 Generator 구현 : yield 키워드
