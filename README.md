@@ -50,7 +50,10 @@
 |Python 코루틴|[링크](https://blueshw.github.io/2016/01/25/python-co-routine-vs-sub-routine/)|
 |파이썬 실행 옵션 정리|[Doc](https://docs.python.org/ko/3.6/using/cmdline.html)|
 |Python *args,**kwargs|[링크](https://brunch.co.kr/@princox/180)|
+
 #### 파이썬 코딩 기술
+|제목|설명|
+|---|---|
 |파이썬 입력 받기||
 |os 패키지를 이용한 절대경로 획득|[링크](https://itmining.tistory.com/122)|
 |Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
