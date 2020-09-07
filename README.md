@@ -48,13 +48,14 @@
 |Python GIL||
 |Python과 메모리||
 |Python 코루틴|[링크](https://blueshw.github.io/2016/01/25/python-co-routine-vs-sub-routine/)|
-|Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
-|Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
 |파이썬 실행 옵션 정리|[Doc](https://docs.python.org/ko/3.6/using/cmdline.html)|
-|Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
-|os 패키지를 이용한 절대경로 획득|[링크](https://itmining.tistory.com/122)|
-|JPype 설치시 JAVA_HOME 미인식 문제||
 |Python *args,**kwargs|[링크](https://brunch.co.kr/@princox/180)|
+#### 파이썬 코딩 기술
+|파이썬 입력 받기||
+|os 패키지를 이용한 절대경로 획득|[링크](https://itmining.tistory.com/122)|
+|Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
+|Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
+|Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
 
 #### pip
 |내용|링크|
