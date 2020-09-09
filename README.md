@@ -52,14 +52,14 @@
 |Python *args,**kwargs|[링크](https://brunch.co.kr/@princox/180)|
 
 #### 파이썬 코딩 기술
-|제목|설명|
-|---|---|
+|제목|라이브러리|설명|
+|--|---|---|
 |파이썬 입력 받기||
-|os 패키지를 이용한 절대경로 획득|[링크](https://itmining.tistory.com/122)|
+|파이썬 절대경로 획득|os|[링크](https://itmining.tistory.com/122)|
 |Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
 |Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
 |Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
-
+|Python 현재 IP 획득하기|socket|[링크](https://h4ru.kr/entry/Python-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%95%84%EC%9D%B4%ED%94%BC-%EC%B0%BE%EB%8A%94-%EB%B0%A9%EB%B2%95)|
 #### pip
 |내용|링크|
 |---|---|
