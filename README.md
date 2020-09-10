@@ -23,6 +23,10 @@
 |[플라스크 기본 문법](https://www.slideshare.net/dahlmoon/20170331)|SildeShare 설명 내용|
 |[플라스크 공식 문서](https://flask-docs-kr.readthedocs.io/ko/latest/)|한글화된 공식 문서. 플라스크의 내부 구조 API 포함|
 
+#### Sanic
+|제목|설명|
+|---|---|
+
 #### 장고
 |제목|설명|
 |---|---|
@@ -69,7 +73,7 @@
 |pip 원하는 플랫폼/원하는 파이썬 버전으로 깔기|[플랫폼](https://stackoverflow.com/questions/59083607/how-to-download-pip-module-for-linux-using-windows)|
 |pip 폐쇄망 설치시 이슈|[링크](Issue.md)|
 |pip 설치과정에서 외부 의존성에 대한 pip팀의 입장|[공식Doc](https://pip.pypa.io/en/stable/development/vendoring-policy/)|
-
+|pipenv = pip + venv|[pipenv란 무엇인가?](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)<br>[pipenv로 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)|
 #### WEBWAS(flask/django)
 |내용|링크|
 |---|---|
