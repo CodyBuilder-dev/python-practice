@@ -3,7 +3,7 @@
 **나는 지금 파이썬을 '파이썬스럽게' 잘 쓰고 있는가? 에 대한 답변**
 
 ## 목표 공부기간
-2020년 ~ 2021년
+2020년 ~ ~~2021년~~ 영원히
 
 ## 레퍼런스 정리
 ### 교재 추천 리스트
@@ -57,9 +57,15 @@
 |파이썬 code formatter|[링크](https://velog.io/@city7310/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%93%9C-%ED%8F%AC%EB%A7%A4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0-5wjxdei9iv)|
 
 #### 파이썬 코딩 기술
+자료구조, 알고리즘 등을 파이썬으로 해결하면서, 자주 쓰이게 되는 기술이나 라이브러리를 정리한다.
 |제목|라이브러리|설명|
 |--|---|---|
 |파이썬 입력 받기||
+|파이썬 표준입출력 속도 향상시키기|sys.stdin|[링크](https://breakcoding.tistory.com/109)|
+|파이썬 list insert()||[링크](https://www.programiz.com/python-programming/methods/list/insert)|
+|파이썬 deque 자료구조|collection.deque|[링크](https://godoftyping.wordpress.com/2015/04/24/python-%EB%8D%B0%ED%81%ACdeque/)|
+|파이썬 Class 멤버와 Instance 멤버||[링크](http://pythonstudy.xyz/python/article/19-%ED%81%B4%EB%9E%98%EC%8A%A4)|
+|파이썬 SHA-256|hashlib|[링크](https://docs.python.org/3/library/hashlib.html)|
 |파이썬 절대경로 획득|os|[링크](https://itmining.tistory.com/122)|
 |Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
 |Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
