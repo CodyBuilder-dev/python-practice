@@ -15,6 +15,11 @@
 |[파이썬답게 코딩하기](https://ridibooks.com/books/3780000029?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C+%EC%BD%94%EB%94%A9%ED%95%98%EA%B8%B0)|파이토닉 코드 교재|
 |[파이썬 코딩의 기술](https://ridibooks.com/books/754018005?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC)|파이썬계의 '이펙티브 C++'|
 
+#### 파이썬 알고리즘
+|제목|설명|
+|---|---|
+|파이썬 알고리즘 인터뷰|[github](https://github.com/onlybooks/algorithm-interview)|
+
 #### 플라스크
 |제목|설명|
 |---|---|
@@ -73,7 +78,10 @@
 |Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
 |Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
 |Python 현재 IP 획득하기|socket|[링크](https://h4ru.kr/entry/Python-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%95%84%EC%9D%B4%ED%94%BC-%EC%B0%BE%EB%8A%94-%EB%B0%A9%EB%B2%95)|
-
+|파이썬 permutations/combinations|[링크](https://medium.com/@hckcksrl/python-permutation-combination-a7bf9e5d6ab3)|
+|파이썬 bitwise 연산자|[링크](https://wikidocs.net/20704)|
+|파이썬 문자열 한글자씩 split|[링크](https://ghdwn0217.tistory.com/58)|
+|TypeError: cannot unpack non-iterable NoneType object Solution|[링크](https://careerkarma.com/blog/python-typeerror-cannot-unpack-non-iterable-nonetype-object/#:~:text=Conclusion-,The%20%E2%80%9CTypeError%3A%20cannot%20unpack%20non%2Diterable%20NoneType%20object%E2%80%9D,does%20not%20return%20a%20value.)|
 #### pip
 |내용|링크|
 |---|---|
