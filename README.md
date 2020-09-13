@@ -81,6 +81,7 @@
 |파이썬 permutations/combinations|[링크](https://medium.com/@hckcksrl/python-permutation-combination-a7bf9e5d6ab3)|
 |파이썬 bitwise 연산자|[링크](https://wikidocs.net/20704)|
 |파이썬 문자열 한글자씩 split|[링크](https://ghdwn0217.tistory.com/58)|
+|TypeError: cannot unpack non-iterable NoneType object Solution|[링크](https://careerkarma.com/blog/python-typeerror-cannot-unpack-non-iterable-nonetype-object/#:~:text=Conclusion-,The%20%E2%80%9CTypeError%3A%20cannot%20unpack%20non%2Diterable%20NoneType%20object%E2%80%9D,does%20not%20return%20a%20value.)|
 #### pip
 |내용|링크|
 |---|---|
