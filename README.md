@@ -69,20 +69,20 @@
 |파이썬 표준입출력 속도 향상시키기|sys.stdin|[링크](https://breakcoding.tistory.com/109)|
 |파이썬 / 와 // 차이||[링크](https://twpower.github.io/112-difference-between-single-slash-and-double-slash-in-python)|
 |파이썬 list insert()||[링크](https://www.programiz.com/python-programming/methods/list/insert)|
-|파이썬 리스트 맨 앞에 원소 추가하기|`리스트명[0:0] = [원소] 또는 리스트명 = [원소] + 리스트`|
+|파이썬 리스트 맨 앞에 원소 추가하기||`리스트명[0:0] = [원소] 또는 리스트명 = [원소] + 리스트`|
 |파이썬 list,dict,set의 in 연산 원리 비교|||
 |파이썬 deque 자료구조|collection.deque|[링크](https://godoftyping.wordpress.com/2015/04/24/python-%EB%8D%B0%ED%81%ACdeque/)|
 |파이썬 Class 멤버와 Instance 멤버||[링크](http://pythonstudy.xyz/python/article/19-%ED%81%B4%EB%9E%98%EC%8A%A4)|
 |파이썬 SHA-256|hashlib|[링크](https://docs.python.org/3/library/hashlib.html)|
 |파이썬 절대경로 획득|os|[링크](https://itmining.tistory.com/122)|
-|Python에서 운영체제 확인하기|[링크](https://pinkwink.kr/1002)|
-|Python Socket 통신으로 Telnet test 자동화하기|[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
-|Python pyinstaller로 Executable 만들기|[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
+|Python에서 운영체제 확인하기||[링크](https://pinkwink.kr/1002)|
+|Python Socket 통신으로 Telnet test 자동화하기||[링크](https://gist.github.com/betrcode/0248f0fda894013382d7)|
+|Python pyinstaller로 Executable 만들기||[Windows](https://hongku.tistory.com/338)<br>[GUI설정 포함](https://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221791248065)|
 |Python 현재 IP 획득하기|socket|[링크](https://h4ru.kr/entry/Python-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%95%84%EC%9D%B4%ED%94%BC-%EC%B0%BE%EB%8A%94-%EB%B0%A9%EB%B2%95)|
-|파이썬 permutations/combinations|[링크](https://medium.com/@hckcksrl/python-permutation-combination-a7bf9e5d6ab3)|
-|파이썬 bitwise 연산자|[링크](https://wikidocs.net/20704)|
-|파이썬 문자열 한글자씩 split|[링크](https://ghdwn0217.tistory.com/58)|
-|TypeError: cannot unpack non-iterable NoneType object Solution|[링크](https://careerkarma.com/blog/python-typeerror-cannot-unpack-non-iterable-nonetype-object/#:~:text=Conclusion-,The%20%E2%80%9CTypeError%3A%20cannot%20unpack%20non%2Diterable%20NoneType%20object%E2%80%9D,does%20not%20return%20a%20value.)|
+|파이썬 permutations/combinations||[링크](https://medium.com/@hckcksrl/python-permutation-combination-a7bf9e5d6ab3)|
+|파이썬 bitwise 연산자||[링크](https://wikidocs.net/20704)|
+|파이썬 문자열 한글자씩 split||[링크](https://ghdwn0217.tistory.com/58)|
+|TypeError: cannot unpack non-iterable NoneType object Solution||[링크](https://careerkarma.com/blog/python-typeerror-cannot-unpack-non-iterable-nonetype-object/#:~:text=Conclusion-,The%20%E2%80%9CTypeError%3A%20cannot%20unpack%20non%2Diterable%20NoneType%20object%E2%80%9D,does%20not%20return%20a%20value.)|
 #### pip
 |내용|링크|
 |---|---|
