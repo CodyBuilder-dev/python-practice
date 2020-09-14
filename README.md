@@ -69,6 +69,7 @@
 |파이썬 표준입출력 속도 향상시키기|sys.stdin|[링크](https://breakcoding.tistory.com/109)|
 |파이썬 / 와 // 차이||[링크](https://twpower.github.io/112-difference-between-single-slash-and-double-slash-in-python)|
 |파이썬 list insert()||[링크](https://www.programiz.com/python-programming/methods/list/insert)|
+|파이썬 리스트 맨 앞에 원소 추가하기|`리스트명[0:0] = [원소] 또는 리스트명 = [원소] + 리스트`|
 |파이썬 list,dict,set의 in 연산 원리 비교|||
 |파이썬 deque 자료구조|collection.deque|[링크](https://godoftyping.wordpress.com/2015/04/24/python-%EB%8D%B0%ED%81%ACdeque/)|
 |파이썬 Class 멤버와 Instance 멤버||[링크](http://pythonstudy.xyz/python/article/19-%ED%81%B4%EB%9E%98%EC%8A%A4)|
