@@ -62,3 +62,9 @@
 # 파일/폴더 저장명
 년도_상반기(F)/하반기(S)_회사명
 
+# VS Code Python Debugger input/output
+1. Ctrl+Shift+d 또는 좌측의 debug 탭으로 들어간다
+2. Current Python file을 클릭한다
+3. Launch.json을 세팅한다
+4. "args": ["<","input.txt",">","output.txt"]을 추가해준다
+
