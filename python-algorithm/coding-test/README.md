@@ -67,4 +67,4 @@
 2. Current Python file을 클릭한다
 3. 좌상단의 톱니바퀴 모양을 클릭해 Launch.json을 세팅한다
 4. "args": ["<","input.txt",">","output.txt"]을 추가해준다. 이때 input/output 파일의 경로는 해당 git repo의 루트 디렉토리로부터의 상대경로로 지정한다.
-5. 파이썬 파일을 클릭하여 연 후, debug 탭에서 초록 화살표를 눌러 디버깅을 실행한다.
+5. 파이썬 파일을 클릭하여 연 후, debug 탭에서 초록 화살표를 누르거나, Ctrl+F5를 눌러 launch.json 옵션으로 실행시키거나, F5를 눌러 Line by Line 디버깅을 수행한다.

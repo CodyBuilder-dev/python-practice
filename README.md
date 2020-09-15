@@ -4,10 +4,9 @@
 
 ## 목표 공부기간
 2020년 ~ ~~2021년~~ 영원히
-
-## 레퍼런스 정리
-### 교재 추천 리스트
-#### 파이토닉 코드
+--- 
+## 교재 추천 리스트
+### 파이토닉 코드
 |제목|설명|
 |---|---|
 |[파이썬 클린 코드](http://www.yes24.com/Product/Goods/69064790)|교재, e북 없음|
@@ -15,12 +14,12 @@
 |[파이썬답게 코딩하기](https://ridibooks.com/books/3780000029?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C+%EC%BD%94%EB%94%A9%ED%95%98%EA%B8%B0)|파이토닉 코드 교재|
 |[파이썬 코딩의 기술](https://ridibooks.com/books/754018005?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC)|파이썬계의 '이펙티브 C++'|
 
-#### 파이썬 알고리즘
+### 파이썬 알고리즘
 |제목|설명|
 |---|---|
 |파이썬 알고리즘 인터뷰|[github](https://github.com/onlybooks/algorithm-interview)|
 
-#### 플라스크
+### 플라스크
 |제목|설명|
 |---|---|
 |[깔끔한 파이썬,탄탄한 백엔드](https://ridibooks.com/books/3780000004?_s=search&_q=%EA%B9%94%EB%81%94%ED%95%9C+%ED%8C%8C%EC%9D%B4%EC%8D%AC)|플라스크 이용한 몇 안되는 책|
@@ -28,11 +27,7 @@
 |[플라스크 기본 문법](https://www.slideshare.net/dahlmoon/20170331)|SildeShare 설명 내용|
 |[플라스크 공식 문서](https://flask-docs-kr.readthedocs.io/ko/latest/)|한글화된 공식 문서. 플라스크의 내부 구조 API 포함|
 
-#### Sanic
-|제목|설명|
-|---|---|
-
-#### 장고
+### 장고
 |제목|설명|
 |---|---|
 |파이썬 웹 프로그래밍 (입문편/실전편) | 평가 제일 무난 |
@@ -42,8 +37,16 @@
 
 +[프로그래머를 위한 베이지안 with python](https://ridibooks.com/books/754022885?_s=search&_q=%ED%8C%8C%EC%9D%B4%EC%8D%AC)(재밌어보여서 ㅎ)
 
-### 링크 정리
-#### 파이썬
+## 레퍼런스 정리
+### 개발환경(VS Code)
+|내용|링크|
+|---|---|
+
+### 개발환경(Pycharm)
+|내용|링크|
+|---|---|
+
+### 파이썬
 |내용|링크|
 |---|---|
 |Python 3.x 버전별 차이|[3.6/3.7](https://docs.python.org/ko/3/whatsnew/3.7.html)<br>[3.7/3.8](https://python.flowdas.com/whatsnew/3.8.html)|
@@ -61,7 +64,7 @@
 |Python *args,**kwargs|[링크](https://brunch.co.kr/@princox/180)|
 |파이썬 code formatter|[링크](https://velog.io/@city7310/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%93%9C-%ED%8F%AC%EB%A7%A4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0-5wjxdei9iv)|
 
-#### 파이썬 코딩 기술
+### 파이썬 코딩 기술
 자료구조, 알고리즘 등을 파이썬으로 해결하면서, 자주 쓰이게 되는 기술이나 라이브러리를 정리한다.
 |제목|라이브러리|설명|
 |--|---|---|
@@ -84,7 +87,9 @@
 |파이썬 bitwise 연산자||[링크](https://wikidocs.net/20704)|
 |파이썬 문자열 한글자씩 split||[링크](https://ghdwn0217.tistory.com/58)|
 |TypeError: cannot unpack non-iterable NoneType object Solution||[링크](https://careerkarma.com/blog/python-typeerror-cannot-unpack-non-iterable-nonetype-object/#:~:text=Conclusion-,The%20%E2%80%9CTypeError%3A%20cannot%20unpack%20non%2Diterable%20NoneType%20object%E2%80%9D,does%20not%20return%20a%20value.)|
-#### pip
+|reduce 사용법|[링크](https://www.daleseo.com/python-functools-reduce/)|
+|print함수 줄바꿈에서 다른 문자로 바꾸기|[링크](https://m.blog.naver.com/PostView.nhn?blogId=chandong83&logNo=221160472657&proxyReferer=https:%2F%2Fwww.google.com%2F)|
+### pip
 |내용|링크|
 |---|---|
 |pip 폐쇄망에서 사용하기|[링크](https://yujuwon.tistory.com/entry/%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-pip-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)|
@@ -92,7 +97,8 @@
 |pip 폐쇄망 설치시 이슈|[링크](Issue.md)|
 |pip 설치과정에서 외부 의존성에 대한 pip팀의 입장|[공식Doc](https://pip.pypa.io/en/stable/development/vendoring-policy/)|
 |pipenv = pip + venv|[pipenv란 무엇인가?](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)<br>[pipenv로 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)|
-#### WEBWAS(flask/django)
+
+### WEBWAS(flask/django)
 |내용|링크|
 |---|---|
 |동적 웹서비스를 위한 CGI,WAS,WSGI 이해|[링크](https://brownbears.tistory.com/350)<br>[링크](https://www.slideshare.net/SELOLEE/ss-126936404)|
@@ -118,7 +124,11 @@
 |gunicorn 명령어 옵션||
 |gunicorn 종료 명령어|[쉘스크립트](https://www.it-swarm.dev/ko/django/gunicorn%EC%9D%84-%EC%98%AC%EB%B0%94%EB%A5%B4%EA%B2%8C-%EB%A9%88%EC%B6%94%EB%8A%94-%EB%B0%A9%EB%B2%95/1071286657/)|
 
-#### Swagger
+### Sanic
+|제목|설명|
+|---|---|
+
+### Swagger
 |내용|링크|
 |---|---|
 |Flask에 Swagger 적용하기|[Flask-Restplus Doc](https://flask-restplus.readthedocs.io/en/stable/swagger.html)<br>[Flask-Restplus 예시](http://egloos.zum.com/mcchae/v/11276332)<br>[Flask-Restplus 예시](https://m.blog.naver.com/PostView.nhn?blogId=wideeyed&logNo=221571623994&proxyReferer=https:%2F%2Fwww.google.com%2F)|
