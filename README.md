@@ -89,7 +89,9 @@
 |TypeError: cannot unpack non-iterable NoneType object Solution||[링크](https://careerkarma.com/blog/python-typeerror-cannot-unpack-non-iterable-nonetype-object/#:~:text=Conclusion-,The%20%E2%80%9CTypeError%3A%20cannot%20unpack%20non%2Diterable%20NoneType%20object%E2%80%9D,does%20not%20return%20a%20value.)|
 |reduce 사용법|[링크](https://www.daleseo.com/python-functools-reduce/)|
 |print함수 줄바꿈에서 다른 문자로 바꾸기|[링크](https://m.blog.naver.com/PostView.nhn?blogId=chandong83&logNo=221160472657&proxyReferer=https:%2F%2Fwww.google.com%2F)|
-|Char을 int로 바꾸기||
+|Char을 int로 바꾸기|[링크](https://dororongju.tistory.com/23)|
+|dict .get() 메소드|[링크](https://m.blog.naver.com/PostView.nhn?blogId=sw4r&logNo=221546720733&proxyReferer=https:%2F%2Fwww.google.com%2F)|
+
 ### pip
 |내용|링크|
 |---|---|
