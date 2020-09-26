@@ -92,7 +92,9 @@
 |Char을 int로 바꾸기|[링크](https://dororongju.tistory.com/23)|
 |dict .get() 메소드|[링크](https://m.blog.naver.com/PostView.nhn?blogId=sw4r&logNo=221546720733&proxyReferer=https:%2F%2Fwww.google.com%2F)|
 |zfill로 문자열 자릿수 채우기|str.zfill()|[링크](https://www.w3schools.com/python/ref_string_zfill.asp)|
-
+|여러개의 separator로 문자열 split하기 |re|re.split('sep1|sep2|...',문자열)|
+|깊은 복사 vs 얕은 복사|[링크](https://blueshw.github.io/2016/01/20/shallow-copy-deep-copy/)|
+|다차원 리스트 복사|[링크](https://qkqhxla1.tistory.com/768)|
 ### pip
 |내용|링크|
 |---|---|
