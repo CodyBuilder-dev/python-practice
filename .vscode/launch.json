@@ -9,8 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal",
-            "args":["<","python-algorithm/baekjoon/input.txt",">","python-algorithm/baekjoon/output.txt"]
+            "console": "integratedTerminal"
         }
     ]
 }
