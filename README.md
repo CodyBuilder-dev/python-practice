@@ -71,6 +71,8 @@
 |표준입출력 받기|||
 |표준입출력 속도 향상시키기|sys.stdin|[링크](https://breakcoding.tistory.com/109)|
 |/ 와 // 차이||[링크](https://twpower.github.io/112-difference-between-single-slash-and-double-slash-in-python)|
+|파이썬 예외처리|[공식문서](https://docs.python.org/ko/3/tutorial/errors.html)|
+|파이썬 사용자 예외|[링크](https://dojang.io/mod/page/view.php?id=2401)|
 |리스트에 값 삽입하기|list.insert()|[링크](https://www.programiz.com/python-programming/methods/list/insert)|
 |리스트 맨 앞에 원소 추가하기||`리스트명[0:0] = [원소] 또는 리스트명 = [원소] + 리스트`|
 |lambda,map,reduce,filter||[링크](https://wikidocs.net/64)|
@@ -90,11 +92,13 @@
 |reduce 사용법|[링크](https://www.daleseo.com/python-functools-reduce/)|
 |print함수 EOF를 줄바꿈이 아닌 다른 문자로 바꾸기|[링크](https://m.blog.naver.com/PostView.nhn?blogId=chandong83&logNo=221160472657&proxyReferer=https:%2F%2Fwww.google.com%2F)|
 |Char을 int로 바꾸기|[링크](https://dororongju.tistory.com/23)|
+|String이 int인지 아닌지 확인|[링크](https://m.blog.naver.com/PostView.nhn?blogId=lee95292&logNo=221201880034&proxyReferer=https:%2F%2Fwww.google.com%2F)|
 |dict .get() 메소드|[링크](https://m.blog.naver.com/PostView.nhn?blogId=sw4r&logNo=221546720733&proxyReferer=https:%2F%2Fwww.google.com%2F)|
 |zfill로 문자열 자릿수 채우기|str.zfill()|[링크](https://www.w3schools.com/python/ref_string_zfill.asp)|
 |여러개의 separator로 문자열 split하기 |re|re.split('sep1|sep2|...',문자열)|
 |깊은 복사 vs 얕은 복사|[링크](https://blueshw.github.io/2016/01/20/shallow-copy-deep-copy/)|
 |다차원 리스트 복사|[링크](https://qkqhxla1.tistory.com/768)|
+|두개의 리스트 공통값 비교|[링크](https://stackoverflow.com/questions/1388818/how-can-i-compare-two-lists-in-python-and-return-matches)|
 ### pip
 |내용|링크|
 |---|---|
