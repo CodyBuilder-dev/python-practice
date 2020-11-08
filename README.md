@@ -99,6 +99,9 @@
 |깊은 복사 vs 얕은 복사|[링크](https://blueshw.github.io/2016/01/20/shallow-copy-deep-copy/)|
 |다차원 리스트 복사|[링크](https://qkqhxla1.tistory.com/768)|
 |두개의 리스트 공통값 비교|[링크](https://stackoverflow.com/questions/1388818/how-can-i-compare-two-lists-in-python-and-return-matches)|
+|여러개의 기준으로 동시에 정렬하기|[링크](https://dailyheumsi.tistory.com/67)|
+|비트마스크||[링크](https://justkode.kr/algorithm/bitmash)|
+|replace에 여러 조건 한번에 적용하기||[링크](https://www.python2.net/questions-86702.htm)|
 ### pip
 |내용|링크|
 |---|---|
