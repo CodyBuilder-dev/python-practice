@@ -16,3 +16,4 @@ Include/
 
 # gitignore for flask
 .vscode/
+.idea/
